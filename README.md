@@ -1,2 +1,24 @@
-# science-and-code
-Template repository for Science &amp; Code channel projects
+# [Project Name]
+
+[Description about project]
+
+## Features 
+
+- [ ] ....
+- [ ] ....
+- [ ] ....
+
+## Setup
+...
+
+### Dependencies
+...
+
+### Installing
+...
+
+## How to contribute
+...
+
+## Project History
+...
